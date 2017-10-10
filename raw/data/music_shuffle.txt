@@ -1,0 +1,42 @@
+给我的音乐随机排序	MUSIC_SHUFFLE
+能不能重新随机排列轻音乐这个列表	MUSIC_SHUFFLE	PLAYLIST:轻音乐
+歌曲列表随机排序	MUSIC_SHUFFLE
+随机排列所有歌曲	MUSIC_SHUFFLE
+随机排列这个播放列表里的歌曲	MUSIC_SHUFFLE
+请把我的歌随机排列一下	MUSIC_SHUFFLE
+请随机排列我的歌曲	MUSIC_SHUFFLE
+随便得给我的歌曲排下顺序把	MUSIC_SHUFFLE
+打乱我的播放列表的顺序	MUSIC_SHUFFLE
+打乱我播放列表里歌曲的顺序	MUSIC_SHUFFLE
+给我的歌曲重新随机排顺序	MUSIC_SHUFFLE
+把我的歌曲列表随机打乱吧	MUSIC_SHUFFLE
+重新随机的把所有歌曲顺序排一下	MUSIC_SHUFFLE
+重新随机的把所有歌曲顺序弄乱	MUSIC_SHUFFLE
+我不想按照这个顺序听歌了	MUSIC_SHUFFLE
+给我把播放顺序换一个	MUSIC_SHUFFLE
+把歌曲列表里的歌的顺序随便换换吧	MUSIC_SHUFFLE
+能不能给我的播放列表换个顺序	MUSIC_SHUFFLE
+把所有歌曲按照随机顺序排列	MUSIC_SHUFFLE
+请随机排列我所有的歌曲	MUSIC_SHUFFLE
+能不能把我的歌曲顺序彻底打乱	MUSIC_SHUFFLE
+给我随机打乱我的所有的歌吧	MUSIC_SHUFFLE
+能不能随机打乱我的列表里的歌曲	MUSIC_SHUFFLE
+请把我的列表里的歌曲随便排序	MUSIC_SHUFFLE
+把所有歌曲随机排序吧	MUSIC_SHUFFLE
+播放歌曲之前先把所有歌重新排个顺序	MUSIC_SHUFFLE
+重新打乱播放列表的顺序行不行	MUSIC_SHUFFLE
+随机排歌曲列表里的顺序	MUSIC_SHUFFLE
+按照随机的顺序排列我的歌曲们	MUSIC_SHUFFLE
+给歌曲换个比较随机的顺序吧	MUSIC_SHUFFLE
+能不能按照随机的顺序排列我的播放列表	MUSIC_SHUFFLE
+请帮我把播放列表随机打乱吧	MUSIC_SHUFFLE
+能不能打乱哪个古典音乐的播放列表	MUSIC_SHUFFLE	PLAYLIST:古典音乐
+请随便给我打乱那个钢琴曲的播放列表	MUSIC_SHUFFLE	PLAYLIST:钢琴曲
+打乱歌曲列表	MUSIC_SHUFFLE
+播放列表随便打乱	MUSIC_SHUFFLE
+播放列表随机排序	MUSIC_SHUFFLE
+按照随机顺序给播放排序	MUSIC_SHUFFLE
+帮我把歌曲列表的顺序打乱	MUSIC_SHUFFLE
+随机化现在的播放列表里的歌曲顺序	MUSIC_SHUFFLE
+请随机改一下这个播放列表的顺序	MUSIC_SHUFFLE
+能不能给我的播放列表随机重新排序	MUSIC_SHUFFLE

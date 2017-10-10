@@ -1,0 +1,64 @@
+我要听男歌手的歌	MUSIC_PLAY	GENDER:男歌手
+来首女歌手的歌	MUSIC_PLAY	GENDER:女歌手
+播放男歌手的歌曲	MUSIC_PLAY	GENDER:男歌手
+想听女歌手的歌	MUSIC_PLAY	GENDER:女歌手
+播放民谣女歌手的歌	MUSIC_PLAY	GENDER:女歌手	GENRE:民谣
+播放男歌手的摇滚歌曲	MUSIC_PLAY	GENDER:男歌手	GENRE:摇滚
+放点经典女歌手的歌	MUSIC_PLAY	GENRE:经典	GENDER:女歌手
+放点经典男歌手的歌给我听	MUSIC_PLAY	GENRE:经典	GENDER:男歌手
+放点经典女歌手的歌给我听	MUSIC_PLAY	GENDER:女歌手	GENRE:经典
+放点流行女歌手的歌吧	MUSIC_PLAY	GENDER:女歌手	GENRE:流行
+我要听男组合的歌	MUSIC_PLAY	GENDER:男组合
+来首女组合的歌	MUSIC_PLAY	GENDER:女组合
+播放男组合的歌曲	MUSIC_PLAY	GENDER:男组合
+想听女组合的歌	MUSIC_PLAY	GENDER:女组合
+播放民谣女组合的歌	MUSIC_PLAY	GENDER:女组合	GENRE:民谣
+播放男组合的摇滚歌曲	MUSIC_PLAY	GENDER:男组合	GENRE:摇滚
+放点经典女组合的歌	MUSIC_PLAY	GENRE:经典	GENDER:女组合
+放点经典男组合的歌给我听	MUSIC_PLAY	GENRE:经典	GENDER:男组合
+放点经典女组合的歌给我听	MUSIC_PLAY	GENDER:女组合	GENRE:经典
+放点流行女组合的歌吧	MUSIC_PLAY	GENDER:女组合	GENRE:流行
+放首民谣	MUSIC_PLAY	GENRE:民谣
+我想听摇滚	MUSIC_PLAY	GENRE:摇滚
+来首电子乐	MUSIC_PLAY	GENRE:电子
+放首英文歌	MUSIC_PLAY	GENRE:英文
+放日语歌	MUSIC_PLAY	GENRE:日语
+放首中文歌	MUSIC_PLAY	GENRE:中文
+来首韩语歌	MUSIC_PLAY	GENRE:韩语
+开车时听的歌	MUSIC_PLAY	GENRE:开车
+晚上听的歌	MUSIC_PLAY	GENRE:晚上
+放首学习时听的歌	MUSIC_PLAY	GENRE:学习
+放首跑步时听的歌	MUSIC_PLAY	GENRE:跑步
+来首校园歌曲	MUSIC_PLAY	GENRE:校园
+放首80后歌曲	MUSIC_PLAY	GENRE:80后
+放首90后歌曲	MUSIC_PLAY	GENRE:90后
+来首KTV歌曲	MUSIC_PLAY	GENRE:KTV
+我想听怀旧的歌	MUSIC_PLAY	GENRE:怀旧
+放一首欢快的歌	MUSIC_PLAY	GENRE:欢快
+来首治愈的歌	MUSIC_PLAY	GENRE:治愈
+来个适合跑步听的歌	MUSIC_PLAY	GENRE:跑步
+我要听法语歌	MUSIC_PLAY	GENRE:法语
+播放儿童歌曲	MUSIC_PLAY	GENRE:儿童
+来首吉他演奏歌曲	MUSIC_PLAY	GENRE:吉他
+播放最热的歌曲	MUSIC_PLAY	RANKING:最热
+来首最近最火的歌	MUSIC_PLAY	RANKING:最近最火
+来一个最近最热歌手的歌	MUSIC_PLAY	RANKING:最近最热	GENDER:歌手
+播放最近最火组合的歌	MUSIC_PLAY	RANKING:最近最火	GENDER:组合
+来首最近最火歌手的歌	MUSIC_PLAY	RANKING:最近最火	GENDER:歌手
+来个最热的歌	MUSIC_PLAY	RANKING:最热
+放首最热的歌	MUSIC_PLAY	RANKING:最热
+放点最热门的歌	MUSIC_PLAY	RANKING:最热门
+来一首较火的歌	MUSIC_PLAY	RANKING:较火
+来一首最火男歌手的歌	MUSIC_PLAY	RANKING:最火	GENDER:男歌手
+放下现在最流行的歌	MUSIC_PLAY	RANKING:最流行
+听最新的钢琴曲	MUSIC_PLAY	RANKING:最新	GENRE:钢琴曲
+放首最新的歌	MUSIC_PLAY	RANKING:最新
+来首最新的民谣	MUSIC_PLAY	RANKING:最新	GENRE:民谣
+来一首摇滚男歌手的歌	MUSIC_PLAY	GENDER:男歌手	GENRE:摇滚
+放首汪峰的摇滚歌	MUSIC_PLAY	ARTIST:汪峰	GENRE:摇滚
+我想听周杰伦的流行的歌	MUSIC_PLAY	ARTIST:周杰伦	GENRE:流行
+播放3-6岁儿歌	MUSIC_PLAY	GENRE:3-6岁儿歌
+来首适合雨天听的歌	MUSIC_PLAY	GENRE:雨天
+放首文艺的歌	MUSIC_PLAY	GENRE:文艺
+放一首悲伤时候听的歌	MUSIC_PLAY	GENRE:悲伤
+来首儿歌	MUSIC_PLAY	GENRE:儿歌
