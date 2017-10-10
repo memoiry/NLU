@@ -1,9 +1,0 @@
-听妈妈的话呢	MUSIC_PLAY	TITLE:听妈妈的话
-一个像夏天一个像秋天呢	MUSIC_PLAY	TITLE:一个像夏天一个像秋天
-一个像夏天一个像秋天的呢	MUSIC_PLAY	TITLE:一个像夏天一个像秋天
-一个像夏天一个像秋天的歌词	MUSIC_FIND_LYRIC	TITLE:一个像夏天一个像秋天
-青藏高原呢	MUSIC_PLAY	TITLE:青藏高原
-青藏高原的呢	MUSIC_PLAY	TITLE:青藏高原
-我怀念的呢	MUSIC_PLAY	TITLE:我怀念的
-我怀念的歌词呢	MUSIC_FIND_LYRIC	TITLE:我怀念的
-我怀念的	MUSIC_PLAY	TITLE:我怀念的
